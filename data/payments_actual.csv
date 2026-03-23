@@ -1,0 +1,11 @@
+contract_id,actual_payment_date,actual_amount,justification
+CTR-001,2026-01-10,14850.0,
+CTR-001,2026-02-12,14850.0,Atraso operacional no processamento bancário.
+CTR-001,2026-03-18,14850.0,
+CTR-002,2026-01-07,23500.0,
+CTR-002,2026-02-06,23500.0,
+CTR-003,2026-03-15,61500.0,
+CTR-003,2026-06-18,61500.0,Aguardando aceite de medição trimestral.
+CTR-004,2026-04-30,98000.0,
+CTR-005,2026-01-20,32100.0,
+CTR-005,2026-02-24,32100.0,Pagamento realizado após reprocessamento do arquivo de remessa.
