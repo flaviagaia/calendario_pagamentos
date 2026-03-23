@@ -180,6 +180,16 @@ pip install -r requirements-agents.txt
 - alertas de pagamentos fora da data
 - casos encaminhados para auditoria quando não houver justificativa
 
+## Exemplos visuais
+
+**Visão do calendário e monitoramento**
+
+![Calendário de pagamentos](./assets/calendario1.jpg)
+
+**Visão de alertas e casos para auditoria**
+
+![Alertas e auditoria](./assets/calendario2.jpg)
+
 ## EN
 
 Portfolio project that simulates a real-world scenario where multiple contract PDFs with different formats are ingested, payment clauses are extracted, a financial calendar is created, and AI agents are used for payment monitoring and audit escalation.
@@ -311,3 +321,13 @@ This design combines:
 - `deterministic decisioning`
 - `agent orchestration`
 - and `human-in-the-loop ready escalation`
+
+## Visual examples
+
+**Payment calendar and monitoring view**
+
+![Payment calendar](./assets/calendario1.jpg)
+
+**Alerts and internal audit view**
+
+![Alerts and audit](./assets/calendario2.jpg)
